@@ -108,7 +108,6 @@ CFLAGS   += -O2
 CFLAGS   += -Wall
 CFLAGS   += -Wwrite-strings
 CFLAGS   += -Wmissing-prototypes
-CFLAGS   += -Werror
 
 CFLAGS   += -g
 LDFLAGS  += -g
